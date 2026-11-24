@@ -1,0 +1,28 @@
+# Java 編譯輸出檔案
+*.class
+bin/
+target/
+out/
+build/
+
+# 打包檔
+*.jar
+*.war
+*.ear
+
+# 錄音暫存檔
+*.wav
+*.webm
+
+# VS Code 與 IDE 設定檔
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+*.iml
+.idea/
+
+# 作業系統暫存檔
+.DS_Store
+Thumbs.db
